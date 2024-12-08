@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Lucas, a 26-year-old Data Scientist from Brazil. I love solving complex problems, deriving insights from data, and leveraging the power of Python, SQL, and machine learning to drive meaningful results. When I’m not crunching numbers or building predictive models, you can find me exploring new tech stacks, reading research papers, or working on open-source projects.
+I'm Lucas, a 26-year-old Data Scientist from Brazil. I love solving complex problems, deriving insights from data, and leveraging the power of Python, SQL, and machine learning to drive meaningful results.
 
 **Areas of Interest:**
 - Data Analysis & Visualization
@@ -29,8 +29,6 @@ I'm Lucas, a 26-year-old Data Scientist from Brazil. I love solving complex prob
 **Additional Tools & Technologies:**  
 **•** Pandas, NumPy, SciPy, scikit-learn  
 **•** Jupyter, VSCode, Git & GitHub  
-**•** Tableau, Power BI  
-**•** Docker, Linux
 
 ---
 
