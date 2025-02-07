@@ -28,7 +28,6 @@ I'm Lucas, a 27-year-old Data Scientist from Brazil. I love solving complex prob
 
 **Additional Tools & Technologies:**  
 **•** Pandas, NumPy, SciPy, scikit-learn  
-**•** Jupyter, VSCode, Git & GitHub  
 
 ---
 
