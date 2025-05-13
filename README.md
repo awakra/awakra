@@ -38,10 +38,6 @@ I'm Lucas, I love solving complex problems, deriving insights from data, and lev
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awakra&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awakra&theme=tokyonight" alt="GitHub Streak Stats" height="180em"/>
-</div>
-
 ---
 
 ### 📫 Let's Connect
